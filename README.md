@@ -4,9 +4,9 @@ Cisco Packet Tracer networking labs including Inter VLAN, EtherChannel and DHCP 
 Demonstrate Inter VLAN segmentation, inter-VLAN routing using Router-on-a-Stick,EtherChannel and DHCP Relay Agent
 
 ## Topology
-1 Router
-2 Switches
-4 PCs
+2 Router
+3 Switches
+6 PCs
 2 VLANs
 
 ## Configuration Highlights
