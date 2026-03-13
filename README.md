@@ -1,4 +1,4 @@
-# CCNA Networking Lab – Inter-VLAN Routing
+# CCNA Networking Lab – Inter-VLAN Routing, EtherChannel and DHCP Relay Agent configurations
 Cisco Packet Tracer networking labs including Inter VLAN, EtherChannel and DHCP Relay Agent configurations.
 ## Objective
 Demonstrate Inter VLAN segmentation, inter-VLAN routing using Router-on-a-Stick,EtherChannel and DHCP Relay Agent
